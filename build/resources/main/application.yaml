@@ -1,9 +1,0 @@
-ktor:
-  deployment:
-    port: 8080
-  application:
-    modules:
-      - com.fspm.docs.SerializationKt.configureSerialization
-      - com.fspm.docs.StatusPagesKt.configureStatusPages
-      - com.fspm.docs.ResourcesKt.configureResources
-      - com.fspm.docs.RoutingKt.configureRouting
