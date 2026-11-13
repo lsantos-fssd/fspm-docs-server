@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fspm.docs.ServerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-11-13T21:06:44.566Z" hostname="FSSDLAPTOP44" time="2.153">
+  <properties/>
+  <testcase name="test root endpoint" classname="com.fspm.docs.ServerTest" time="2.144"/>
+  <system-out><![CDATA[2026-11-13 16:06:46.390 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - No ktor.deployment.watch patterns specified, automatic reload is not active.
+2026-11-13 16:06:46.562 [DefaultDispatcher-worker-1 @call-context#3] INFO  io.ktor.test - Application started in 0.198 seconds.
+2026-11-13 16:06:46.570 [DefaultDispatcher-worker-2 @coroutine#5] INFO  io.ktor.test - Responding at http://localhost:80
+2026-11-13 16:06:46.570 [DefaultDispatcher-worker-2 @coroutine#5] INFO  io.ktor.test - Responding at https://localhost:443
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
