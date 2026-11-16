@@ -7,3 +7,7 @@ ktor:
       - com.fspm.docs.StatusPagesKt.configureStatusPages
       - com.fspm.docs.ResourcesKt.configureResources
       - com.fspm.docs.RoutingKt.configureRouting
+#  database:
+#    url: "${DB_URL}"
+#    user: "${DB_USER}"
+#    password: "${DB_PASSWORD}"
